@@ -25,9 +25,10 @@
   },
   "homepage": "https://github.com/pilotkid/vue-dist-live#readme",
   "bin": {
-    "vue-serve-dist": "./cli.js"
+    "vue-dist-live": "./cli.js"
   },
   "dependencies": {
-    "chokidar": "^3.4.0"
+    "chokidar": "^3.4.0",
+    "minimist": "1.2.5"
   }
 }
