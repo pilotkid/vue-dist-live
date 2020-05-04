@@ -23,5 +23,11 @@
   "bugs": {
     "url": "https://github.com/pilotkid/vue-dist-live/issues"
   },
-  "homepage": "https://github.com/pilotkid/vue-dist-live#readme"
+  "homepage": "https://github.com/pilotkid/vue-dist-live#readme",
+  "bin": {
+    "vue-serve-dist": "./cli.js"
+  },
+  "dependencies": {
+    "chokidar": "^3.4.0"
+  }
 }
