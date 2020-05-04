@@ -1,0 +1,27 @@
+{
+  "name": "vue-dist-live",
+  "version": "1.0.0",
+  "description": "A live server to debug Vue distribution files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pilotkid/vue-dist-live.git"
+  },
+  "keywords": [
+    "vue",
+    "dist",
+    "debug",
+    "live",
+    "serve",
+    "server"
+  ],
+  "author": "Marcello A. Bachechi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pilotkid/vue-dist-live/issues"
+  },
+  "homepage": "https://github.com/pilotkid/vue-dist-live#readme"
+}
