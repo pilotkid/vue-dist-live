@@ -1,3 +1,4 @@
+![Node.js Package](https://github.com/pilotkid/vue-dist-live/workflows/Node.js%20Package/badge.svg)
 # vue-dist-live
 
 This is my first NPM package, this builds vue production applications live as you save your files so you can debug dist files.
