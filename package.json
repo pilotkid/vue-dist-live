@@ -1,6 +1,6 @@
 {
   "name": "vue-dist-live",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A live server to debug Vue distribution files",
   "main": "index.js",
   "scripts": {
