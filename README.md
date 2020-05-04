@@ -10,3 +10,6 @@ This is my first NPM package, this builds vue production applications live as yo
 ## Run
 Open the root directory of the projects.
 In terminal run `npm vue-dist-live`
+
+## Params
+-p <PORT_NUMBER>
